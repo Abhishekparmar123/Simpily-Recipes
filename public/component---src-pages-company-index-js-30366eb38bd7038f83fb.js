@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[357],{2377:function(e,t,l){l.r(t);var r=l(7294);t.default=function(){return r.createElement("div",null,r.createElement("h1",null,"This is company page."))}}}]);
+//# sourceMappingURL=component---src-pages-company-index-js-30366eb38bd7038f83fb.js.map
